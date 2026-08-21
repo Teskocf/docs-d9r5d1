@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-wt501o.fastpartssource.com/sitemap.xml
